@@ -23,6 +23,8 @@ public class Puppy{
     Puppy puppy2 = new Puppy();
     puppy2.setAge(3);
     System.out.println("getting method- "+ puppy2.getAge());
-
+    System.out.println("directly through var "+ puppy2.puppyAge);
   }
+
+
 }
